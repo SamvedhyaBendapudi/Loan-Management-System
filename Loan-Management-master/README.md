@@ -6,7 +6,7 @@
 An application designed to manage and sanction loans. Users can login and request for loans. Once the loans are approved by the manager, they are sanctioned to the user.
 
 
-![Loan-Management](https://socialify.git.ci/Coder-Srinivas/Loan-Management/image?description=1&forks=1&language=1&owner=1&stargazers=1&theme=Light)
+
 
 ## Hit ⭐ if you like this project
 
